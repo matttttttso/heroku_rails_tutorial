@@ -5,3 +5,5 @@ This is tutorial working based on
 (https://devcenter.heroku.com/articles/getting-started-with-rails5)
 
 Deployed heroku URL : https://powerful-oasis-45092.herokuapp.com/
+
+Keep learning, trying, resolving, growing.
